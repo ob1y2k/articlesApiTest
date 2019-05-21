@@ -1,2 +1,1 @@
-# scoville
- articles api
+# simple articles api
